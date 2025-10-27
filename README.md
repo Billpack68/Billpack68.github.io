@@ -36,3 +36,9 @@ Piano Repertoire tracker ([Github](https://github.com/Billpack68/PianoRepertoire
 Rate my dryer website ([Github](https://github.com/Billpack68/startup))
 - A react website using HTML, CSS, and Javascript
 - Created for BYU's CS 260 web development course
+
+# Other facts about me
+
+- I like to run
+![Image of me running](Run.jpg)
+^ Me running a half marathon in jeans
