@@ -21,18 +21,16 @@ Soil compaction testing
 - April 2025 to August 2025
 
 Jimmy John's shift manager
-- June 2020 to July 2024
-- I left twice for missionary service and school, both times they rehired me as quickly as they could
-- All in all I was actively employed by JJ's for about 2 years in that time frame. That's a really long time to work for one fast food company, imagine how commited I could be to your company 👀
+- June 2020 to July 2024 (on and off, was actively employed for approximately 2 years)
 
 # Projects
 
-Chess server
+Chess server ([Github](https://github.com/Billpack68/chess))
 - Currently implementing a chess server using object-oriented programming in Java
 
-Piano Repertoire tracker
+Piano Repertoire tracker ([Github](https://github.com/Billpack68/PianoRepertoire))
 - Also with object-oriented programming in Java, making a project to track my piano repertoire and what pieces I'm learning
 
-Rate my dryer website
+Rate my dryer website ([Github](https://github.com/Billpack68/startup))
 - A react website using HTML, CSS, and Javascript
 - Created for BYU's CS 260 web development course
